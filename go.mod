@@ -16,6 +16,7 @@ require (
 	github.com/google/btree v1.0.0 // indirect
 	github.com/gregjones/httpcache v0.0.0-20190212212710-3befbb6ad0cc // indirect
 	github.com/peterbourgon/diskv v2.0.1+incompatible // indirect
+	github.com/rancher/trash v0.2.7 // indirect
 	github.com/rancher/wrangler v0.0.0-20190507213151-11fc1ecb7bdb
 	github.com/stretchr/testify v1.3.0
 	k8s.io/apimachinery v0.0.0-20190221213512-86fb29eff628
